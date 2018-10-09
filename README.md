@@ -1,4 +1,4 @@
-# hacktoberfest2018 🎃
+# 🎃 Hacktoberfest 2018
 Yet another hacktoberfest project!
 
-Mmhm. 👻
+Happy Halloween Hack-a-thon 👻
