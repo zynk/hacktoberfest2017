@@ -1,4 +1,4 @@
-# hacktoberfest2018
-Yet another hacktoberfest project
+# hacktoberfest2018 🎃
+Yet another hacktoberfest project!
 
-Mmhm.
+Mmhm. 👻
