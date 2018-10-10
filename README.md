@@ -1,7 +1,7 @@
 # 🎃 Hacktoberfest 2018
 Yet another hacktoberfest project!
 
->*“Eye of newt, and toe of frog,
+>“Eye of newt, and toe of frog,
 >
 >Wool of bat, and tongue of dog,
 >
@@ -16,8 +16,7 @@ Yet another hacktoberfest project!
 >Double, double toil and trouble;
 >
 >Fire burn, and caldron bubble.”
->
->__― William Shakespeare
+>― William Shakespeare
 
 You can check your current progress here: https://hacktoberfestchecker.herokuapp.com/
 
