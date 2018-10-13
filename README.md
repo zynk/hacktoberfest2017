@@ -1,5 +1,5 @@
 # 🎃 Hacktoberfest 2018
-Yet another hacktoberfest project! 
+Yet another Hacktoberfest project! 
 
 You can check your current progress here: 
 https://hacktoberfestchecker.herokuapp.com/
