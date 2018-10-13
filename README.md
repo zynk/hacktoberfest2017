@@ -1,6 +1,7 @@
 # 🎃 Hacktoberfest 2018
-Yet another hacktoberfest project! You can check your current progress here: 
+Yet another hacktoberfest project! 
 
+You can check your current progress here: 
 https://hacktoberfestchecker.herokuapp.com/
 
 >“Eye of newt, and toe of frog,
