@@ -1,5 +1,7 @@
 # 🎃 Hacktoberfest 2018
-Yet another hacktoberfest project!
+Yet another hacktoberfest project! You can check your current progress here: 
+
+https://hacktoberfestchecker.herokuapp.com/
 
 >“Eye of newt, and toe of frog,
 >
@@ -18,7 +20,5 @@ Yet another hacktoberfest project!
 >Fire burn, and caldron bubble.”
 >
 >― William Shakespeare
-
-You can check your current progress here: https://hacktoberfestchecker.herokuapp.com/
 
 Happy Halloween Hack-a-thon 👻
