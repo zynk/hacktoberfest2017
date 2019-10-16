@@ -2,7 +2,7 @@
 Yet another Hacktoberfest project! 
 
 You can check your current progress here: 
-https://hacktoberfestchecker.herokuapp.com/
+https://hacktoberfest.digitalocean.com/
 
 >“Eye of newt, and toe of frog, 🐸
 >
