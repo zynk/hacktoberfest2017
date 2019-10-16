@@ -1,16 +1,16 @@
-# 🎃 Hacktoberfest 2018
+# 🎃 Hacktoberfest 2019
 Yet another Hacktoberfest project! 
 
 You can check your current progress here: 
 https://hacktoberfestchecker.herokuapp.com/
 
->“Eye of newt, and toe of frog,
+>“Eye of newt, and toe of frog, 🐸
 >
->Wool of bat, and tongue of dog,
+>Wool of bat, and tongue of dog, 🦇
 >
->Adder's fork, and blind-worm's sting,
+>Adder's fork, and blind-worm's sting, 🐍
 >
->Lizard's leg, and owlet's wing,—
+>Lizard's leg, and owlet's wing,— 🦎
 >
 >For a charm of powerful trouble,
 >
