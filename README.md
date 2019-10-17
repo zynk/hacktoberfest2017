@@ -1,5 +1,5 @@
 # 🎃 Hacktoberfest 2019
-Yet another Hacktoberfest project! 
+Yet another Hacktoberfest project!
 
 You can check your current progress here: 
 https://hacktoberfest.digitalocean.com/
@@ -10,16 +10,16 @@ https://hacktoberfest.digitalocean.com/
 >
 >Adder's fork, and blind-worm's sting, 🐍
 >
->Lizard's leg, and owlet's wing,— 🦎
+>Lizard's leg, and owlet's wing,— 🦉
 >
 >For a charm of powerful trouble,
 >
 >Like a hell-broth boil and bubble.
 >
->Double, double toil and trouble;
+>Double, double toil and trouble; 
 >
->Fire burn, and caldron bubble.”
+>Fire burn, and caldron bubble.” 
 >
->― William Shakespeare
+>― William Shakespeare 🎭
 
 Happy Halloween Hack-a-thon 👻
